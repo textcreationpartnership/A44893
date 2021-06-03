@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hugh Peters's dreame</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44893</idno><idno type="EEBO-CITATION">11893781</idno>
+  <idno type="VID">50521</idno>
+  <idno type="EEBO-PROQUEST">2240903530</idno>
+  
+            <idno type="STC">Wing H3302A</idno>
+            <idno type="STC">ESTC R6562</idno>
+            <idno type="OCLC">11893781</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A44893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50521)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 35:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hugh Peters's dreame</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Peters, Hugh, 1598-1660.</term>
+               <term type="topical_term">Religious satire, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50521:1"/>
+            <pb n="1" facs="tcp:50521:1"/>
+            <head>
+               <figure>
+                  <figDesc>decorative top border consisting of a French fleur-de-lis with Tudor rose and Scottish thistle on either side, each surmounted by a crown and against a background of stylized foliage</figDesc>
+               </figure>
+            </head>
+            <head>Hugh Peters's Dreame.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving of late been made the <hi>Theane</hi> and <hi>Subject</hi> of some ingenious fancies to delight other Men, blame me not, my <hi>Masters,</hi> if for my own recreation, I relate unto you, what in my noctur<g ref="char:EOLhyphen"/>nall perambulatings, as in a <hi>Vis on</hi> presented it selfe to me▪ for lying not long since pensive in my thoughts, I was (as it seemed unto me) through many maze; and winding Meanders brought to those infernall regions, whither some of the antient <hi>Heroes</hi> (more happy then my selfe) have dared to descend, and with prosperous successe returned, (if <hi>Poets</hi> speak truth) where after a dismall passage, and some hideous appearances, I arrived at the brink of that Hellish Lake where <hi>Charon</hi> with his weather-beaten Boat waites to wafte over distressed Soules, when boldly thrusting my selfe into the croud, I was on a sudden (being on the
+<pb n="2" facs="tcp:50521:2"/>shore) encountred by a Person sometimes well known to me, (as afterwards appeared) for (quoth he) have you forgotten me, I am <hi>John Lilburne,</hi> on purpose sent hither by my great Master <hi>Pluto,</hi> to meet thee, and leade thee unto his Court, and withall to shew thee the very en<g ref="char:EOLhyphen"/>trailes and bowels of his Kingdome. Know then (pro<g ref="char:EOLhyphen"/>ceeded he) that this is the Valley of <hi>Gethinn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m,</hi> wherein the Divell useth to celebrate his great Dayes of Thanks<g ref="char:EOLhyphen"/>giving, because here he is sensible of the teares and cryes of Widdowes and Orphans made by your <hi>Masters</hi> suc<g ref="char:EOLhyphen"/>cessively upon severall occasions, for you must know he laughes in his sleeve at it; but I suppose you have heard so much of that matter, that I need not stay here to shew you more concerning it: Let us go on therefore, and there on your right hand you may behold a pure Com<g ref="char:EOLhyphen"/>pany, observe but their actions and postures, and there me thoughts I saw some blowing Coales, and the sparkes flying into their Faces, others sate wrying their mouths and screwing their countenances into sundry formes: here sate one as a <hi>Jester</hi> acting his part, and there another <hi>Proteus</hi> like changing both shape and colour with every turn; while I stood musing and wondering who they might be, one of them on a sudden drew neer, who as he approached, said to me, wonder not at us, freind, for we are they that did beat the Bush, though you have taken the Bird, we did <hi>Camerinam movere,</hi> like Cockes, rake the Dunghill, but you got the Pearle, in short we are they who by crying down Religion, and preaching up Faction, made a way for such as you to tread in, and our selves became the steps to raise your greatnesse, but had we been sensible of what we since have seene
+<pb n="3" facs="tcp:50521:2"/>and now feele, we might perchance, like the Monkey, have reached the Apple out of the Fire with the Cats claw; have sought our owne advantage with the perill of your heads: but <hi>Sero Sapiunt Phryges,</hi> our losse hath taught us repentance: Thus had he gone on, if a great noise had not suddenly interrupted him and startled us, which was a great multitude, that with confused noyse and violent out-cryes, like the old <hi>Ephesians</hi> about <hi>Diana,</hi> sought for they knew not what; I desired to know of my Conductor what they were, who returned, these are the spurious Brats of your begetting, I wonder you know them not. See you those <hi>Midas</hi>-ear'd fellowes, whose Progeny may be discovered by their eares; those others who like some of the old Philosophers <hi>barbati tantum,</hi> have more hayre then wit, some of them neither wit nor hayre, some (as the old Song speakes—Like a re<g ref="char:EOLhyphen"/>verend <hi>Deane,</hi> with a Band startcht cleane—are so glewed into a posture, they dare not stir least they dis<g ref="char:EOLhyphen"/>order a hayre, and other of <hi>Eve</hi> loose a Garbe and Hu<g ref="char:EOLhyphen"/>mour, that they are ready (to imitate <hi>Adam</hi> in innocen<g ref="char:EOLhyphen"/>cy) to walk naked: Some out of Religion frighted into a quaking fit like an Ague, while others in the heate of their zeale must be new dipped to an increase of their Frenzy: these, I say all these, beloved Brother, are the bastard issue of your so much gloryed Religion (if with<g ref="char:EOLhyphen"/>out offence it may so be called) who are now in full career going to cojole another sort of Men, to whom I will now lead you: Scarce had he spoken the word, but we were brought into a large roome, all of fretted work, where at a large Table were sundry Persons sitting, seve<g ref="char:EOLhyphen"/>rall whereof I had never seen, but was told they were
+<pb n="4" facs="tcp:50521:3"/>
+               <hi>Aeneas Sylvias, Caesar Borgia, Hildebrand,</hi> and many o<g ref="char:EOLhyphen"/>thers who in their times had made great bustles in the world, and beene grand Polititions to bring to passe great <hi>Pluto's</hi> designes, among whom as of a newer date I saw old <hi>Noll</hi> sitting cheek by jole with the Devill himselfe, where they were in a grand consultation, what new offices to bestow on those new made and new come (though long expected) Lords: at last it was resolved, (the great offices of trust being disposed, as the treasurer ship to <hi>Aeneas Sylvias Hildebrand</hi> to be president of the coun<g ref="char:EOLhyphen"/>cell, <hi>Caesar Borgia</hi> to be Admirall, and old <hi>Noll</hi> to be Lord Generall) that <hi>Pride</hi> should have a brewhouse within the Court to brew onely for the Devills drinking, and that <hi>Styx, Acheron,</hi> and <hi>Phlegeton,</hi> the three cheife rivers of <hi>Hell,</hi> should be set apart to that purpose one<g ref="char:EOLhyphen"/>ly for liquor: least the Taylor for his Diabolicall highnesse should prick his fingers, and so not being able to worke, discover his Masters nakednesse, it was or<g ref="char:EOLhyphen"/>dered that <hi>B—</hi> the broken goldsmith, to advance his trade should provide him thimbles of Sylver: many places were reserved for persons of note, as for Sir <hi>H. V.</hi> To be Secretary of Sate, Sir <hi>A, H.</hi> To finde coales for his Winters store, <hi>T. C.</hi> To be his Topographar, and to teach the queyn division of <hi>concretum</hi> and <hi>abstra<g ref="char:EOLhyphen"/>ctum</hi> (so well in a speech (by him made) once applyed) one eyed <hi>H—</hi> should be the Devills Soale-mender, and upright setter.</p>
+            <p>And least <hi>H— M—</hi> should think himselfe ill rewarded, having so well deserved: it was thought fit he should supervise the Seraglio, the Devill not fearing to be cornuted or made Cuckold, though he knew <hi>Harry</hi> to
+<pb n="5" facs="tcp:50521:3"/>be a sufficient Cunny-catcher, both <hi>root</hi> and <hi>branch.</hi> But though this might seem something, yet not being enough, there was a stately room paved all with burning brimstone and seyled with melting pitch, which continually with<g ref="char:EOLhyphen"/>out wasting dropped, herein were placed severall fiery seats for the persons last mentioned, (and severall others whom I took not notice of) wherein they were to sit, and to be smeared with the pitch, like the gallant Ladies of the world with patches: then (said my conductor <hi>John</hi> to me) looke through here, and shewing me some little holes, I saw the blacknesse of their perjured soules, more horrid then is to be imagined: of which sight turning to him I said: And can it possibly be that they be such, nay then I see all is not gold that glisters: I see there is more craft in men then honesty: Is it not possi<g ref="char:EOLhyphen"/>ble that goodnesse and greatnesse should goe together: they invent a plot and set their emissaries to entice men to it, and then punish them like a tyrannicall Schoole<g ref="char:EOLhyphen"/>master; they make them cry, and then whip them for crying: they are like the sick Wolfe that went to his Ghostly father, to whom for penance it was imposed that he should eat no more meate in two dayes, then in his con<g ref="char:EOLhyphen"/>science he thought was worth three half-pence; away goes the Wolfe discontented, but shortly after meeting an Ewe and a Lambe, (this greedy stomack now calling for food) and seeking so faire a prey, and not knowing suddenly how to performe his pennance, and yet satisfie hunger; stay, said he, no more but what in my conscience I vallue at one peny half peny. Why then (quoth he) in <hi>my</hi> conscience I vallue the Ewe at a penny, and the Lambe at a halfe-penny, and so eate them both: I will
+<pb n="6" facs="tcp:50521:4"/>not apply it least I tire you wherat honest <hi>Jack</hi> my leader smiling, true it is (quoth he) and thou hast welll fitted thy comparison to their humor, for they are men of the most envyous disposition that ever infected the aire with their breaths, having the powr of Kings, not the nature of Kings, making Lawes rather to finde faults then prevent them, O what could your enemyes wish more unto you then to see your owne estate, with your own hands under<g ref="char:EOLhyphen"/>mined. I confesse I was one of the first mislead and mis<g ref="char:EOLhyphen"/>leading: but now I too dearly (though too late) repent mee: O what would your forefathers say, if they now lived and saw their offspring defacing so famous a princi<g ref="char:EOLhyphen"/>pality, which they with much labour and blood so wisely did establish. Have they not vomited out of their soules all remnants of goodnesse? yea certainly, there rests in them only a pride in evil, and having else no shadow of glory left them, they glory to be constant in iniquity, as thinking great courage is declared in being neither afraid of the heavens nor ashamed of the world: men whose consciences are seared, nay utterly lost and fled, &amp; conscience like mo<g ref="char:EOLhyphen"/>desty is never to be regained; you may happily have heard of that tale, when conscience the aire and the water took leave of each other, who at their parting, asking where they should meet again, &amp; see each other, the air said, that they should find her on the tops of hills the water, that they should be sure of her in the bowells of the earth, but con<g ref="char:EOLhyphen"/>science replyed, that she being once gone from them, it was impossible to meet with her any more, for <hi>consuetudo pec<g ref="char:EOLhyphen"/>candi tollit sensum peccati,</hi> here stopping, for now we were come to <hi>Pluto's</hi> dining roome, where <hi>Ben. Johnsons</hi> feast would have seemed but scanty dinner, so many varieties was
+<pb n="7" facs="tcp:50521:4"/>the fiend served with, as, one dish I remember were two <hi>Presbyters</hi> in their cloakes drest like an <hi>Hare</hi> in her wooll, well larded with the fat of a solemne league and convenant, served with joy of a thanks-giving dinner; and brought up to the table by an unmannerly <hi>Scot.</hi> The next as I can thinke was an <hi>Oglio</hi> which was a mixt dish make up of sneaking <hi>Anabaptists</hi> and creeping <hi>Indepen<g ref="char:EOLhyphen"/>dants,</hi> well sowsed in the <hi>teares</hi> of <hi>widowes</hi> and <hi>Orphans,</hi> which was no sooner tasted but highly applauded, for its rich <hi>Hogo.</hi> The third dish (for so many courses were served up, and I speake but of one dish in each course) was filled according to the season (not with <hi>Apricocks, Peaches,</hi> or the like) but with severall <hi>relishes</hi> of the Saints, as <hi>Presbyters</hi> zeale candied with nonconformity, <hi>Independants</hi> discipline preserved with faction: the <hi>Quakers</hi> religion in a conserve of freneticall humor, and the <hi>Anabaptists</hi> Christianity newly dipped in those purifyed waters gliding by the holy bankes of <hi>Bow:</hi> at which strange and unusuall medley, the <hi>Divells</hi> stomack grew a little <hi>Queasy,</hi> when <hi>L—</hi> slepping in with a rich cordiall of dissimulation and hipocrisy some what revived him; whereupon he was lustily promised that though for the present the squib ran not to the end of the line, but he was discarded, yet he should not despaire, for he should be thought on for his reward when time served, at which time the tables withdrawn, <hi>M—</hi> makes his ap<g ref="char:EOLhyphen"/>pearance, and better at the end of a <hi>feast</hi> then the be<g ref="char:EOLhyphen"/>ginning of a <hi>fray,</hi> with a messe of fidlers who sung the Devill a song, at the end of which <hi>Hell</hi> broke loose, then might you have verifyed the <hi>Poets</hi> tales, of <hi>Mars</hi> and <hi>Venus</hi> taken in a net, like <hi>H— M—</hi> and his <hi>wench</hi>
+               <pb n="8" facs="tcp:50521:5"/>well-nigh so taken by Sir <hi>W. P.</hi> onely this difference there the persons, here the cloathes found under the bed made the discovery: or <hi>Paris</hi> running away with <hi>Hellen,</hi> like one of the Illustrious Cromwellian Ladyes at the back doore of <hi>James</hi> his parke to the Mulberry garden, a meere <hi>chip</hi> of the old block: But how can it be helped, Cat will after kinde: <hi>Mulciber in Trojam pro Troja stubat Apollo;</hi> here's <hi>Hercules</hi> fighting with <hi>Autaeus</hi> still recovering by helpe from the earth: And there the same fighting with the many headed <hi>Hydra:</hi> till at last the three fatall Sisters on a sudden (in a furious storme) fetched him away.</p>
+            <p>Never was <hi>Agea's</hi> stable so purged from filth by him, as <hi>White-Hall</hi> was clensed by the succeeding <hi>State. Moun<g ref="char:EOLhyphen"/>tebanks:</hi> but here with a sudden out-cry I was awaked, and lost my Conductor, and further hopes of seeing more at present:</p>
+            <epigraph>
+               <q>
+                  <l>This was my Dreame, and many times they say</l>
+                  <l>That Dreames prove true, then surely so this may;</l>
+                  <l>Whether or not I care not, yet I dare</l>
+                  <l>Avouch this truth, that many Men there are</l>
+                  <l>Will censure, e're they understand the Theame</l>
+                  <l>On which I treate, then surely they but Dreame.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50521:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
